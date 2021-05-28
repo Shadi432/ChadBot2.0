@@ -5,7 +5,7 @@
 
 local discordia = require("discordia")
 local client = discordia.Client()
-local token = "NzM0ODUzMTY3Njc3ODMzMjY3.XxXvWA.BgMAgQw06ybGVWr5CUDbqFh-Dpg"
+local token = "CensoredToken"
 
 -- Do not change above this line
 
