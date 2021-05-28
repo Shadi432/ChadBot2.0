@@ -1,12 +1,11 @@
 
 --[[
-    Version Log:
-    28/05/2021: Added update methods, after I update the version constant in the code, if it's different to the last version saved in the file then a message saying chadbot has been updated will be pumped out to all servers on initiation.
+    Made by Shadi432 :)
 ]]--
 
 local discordia = require("discordia")
 local client = discordia.Client()
---local token = "CensoredToken"
+local token = "NzM0ODUzMTY3Njc3ODMzMjY3.XxXvWA.BgMAgQw06ybGVWr5CUDbqFh-Dpg"
 
 -- Do not change above this line
 
@@ -63,25 +62,6 @@ end
 client:on("ready", function()
     splitString("Hello, world!! Test!!"," ")
     
-    -- Get past version saved in a file if a version has already been saved, save in a list in the file.
-    -- 
-
-    
-    
-    --[[
-    local versFile = io.open("version.txt", "r")
-    io.input(versFile)
-    if versFile then
-        print(io.read())
-        io.close()
-    else
-        local newFile = io.open("version.txt","w")
-        io.output(file)
-        io.write("Version: " .. Version)    
-        io.close()
-        print("New file created!")
-    end
-    ]]--
 
 end)
 
@@ -95,6 +75,15 @@ client:on("messageCreate", function(message)
         message.channel:send("<:KKonaW:" .. getEmojiId(message.guild,"KKonaW")[4] .. ">")
     elseif message.content:lower():match("research q") then
         message.channel:send("https://media.giphy.com/media/pWeLDLEd0PmlXqtSyQ/giphy.gif")
+    elseif message.content:lower():match("ddd") or message.content:lower():match("dedede") then
+        message:delete()
+    elseif message.content == "https://tenor.com/view/eh-hey-marmot-squirrel-calling-out-gif-16861592" then
+        message.channel:send{
+            content = "....",
+            file = "images/FeelsWeirdMan.jpg"
+        }
+    elseif message.content == "!shutdown" and message.author.tag == "Shadi432#1826" then
+        client:stop()
     else
         for messageNum,messageContent in pairs(messageUnits) do
             if messageContent == "Q" or messageContent:upper() == "QANON"then

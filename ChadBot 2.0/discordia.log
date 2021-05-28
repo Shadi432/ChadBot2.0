@@ -830,3 +830,87 @@
 2021-05-28 20:20:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2021-05-28 20:20:37 | [INFO]    | Shard 0 : Received HELLO
 2021-05-28 20:20:37 | [INFO]    | Shard 0 : Received READY
+2021-05-28 20:30:18 | [INFO]    | Discordia 2.8.4
+2021-05-28 20:30:18 | [INFO]    | Connecting to Discord...
+2021-05-28 20:30:18 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 20:30:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 20:30:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:30:18 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:30:18 | [INFO]    | Shard 0 : Received READY
+2021-05-28 20:32:25 | [WARNING] | Shard 0 : 4003 - Not authenticated.
+2021-05-28 20:32:25 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:32:25 | [INFO]    | Shard 0 : Reconnecting after 960 ms...
+2021-05-28 20:32:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:32:26 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:32:26 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2021-05-28 20:32:30 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:32:30 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:32:30 | [INFO]    | Shard 0 : Reconnecting after 2111 ms...
+2021-05-28 20:32:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:32:32 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:32:37 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:32:37 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:32:37 | [INFO]    | Shard 0 : Reconnecting after 4205 ms...
+2021-05-28 20:32:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:32:41 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:32:45 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:32:45 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:32:45 | [INFO]    | Shard 0 : Reconnecting after 8536 ms...
+2021-05-28 20:32:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:32:53 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:32:53 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:32:53 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:32:53 | [INFO]    | Shard 0 : Reconnecting after 16473 ms...
+2021-05-28 20:33:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:33:10 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:33:10 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:33:10 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:33:10 | [INFO]    | Shard 0 : Reconnecting after 33875 ms...
+2021-05-28 20:33:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:33:44 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:33:44 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:33:44 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:33:44 | [INFO]    | Shard 0 : Reconnecting after 62782 ms...
+2021-05-28 20:34:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:34:47 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:34:47 | [WARNING] | Shard 0 : 4004 - Authentication failed.
+2021-05-28 20:34:47 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 20:34:47 | [INFO]    | Shard 0 : Reconnecting after 64063 ms...
+2021-05-28 20:35:50 | [INFO]    | Discordia 2.8.4
+2021-05-28 20:35:50 | [INFO]    | Connecting to Discord...
+2021-05-28 20:35:50 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 20:35:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 20:35:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:35:50 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:35:50 | [INFO]    | Shard 0 : Received READY
+2021-05-28 20:42:30 | [INFO]    | Discordia 2.8.4
+2021-05-28 20:42:30 | [INFO]    | Connecting to Discord...
+2021-05-28 20:42:30 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 20:42:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 20:42:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 20:42:30 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 20:42:30 | [INFO]    | Shard 0 : Received READY
+2021-05-28 21:04:13 | [INFO]    | Discordia 2.8.4
+2021-05-28 21:04:13 | [INFO]    | Connecting to Discord...
+2021-05-28 21:04:13 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 21:04:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 21:04:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 21:04:13 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 21:04:13 | [INFO]    | Shard 0 : Received READY
+2021-05-28 21:04:42 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 21:07:06 | [INFO]    | Discordia 2.8.4
+2021-05-28 21:07:06 | [INFO]    | Connecting to Discord...
+2021-05-28 21:07:06 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 21:07:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 21:07:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 21:07:06 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 21:07:06 | [INFO]    | Shard 0 : Received READY
+2021-05-28 21:07:10 | [INFO]    | Shard 0 : Disconnected
+2021-05-28 21:07:39 | [INFO]    | Discordia 2.8.4
+2021-05-28 21:07:39 | [INFO]    | Connecting to Discord...
+2021-05-28 21:07:39 | [INFO]    | Authenticated as Chad 2.0#0921
+2021-05-28 21:07:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2021-05-28 21:07:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2021-05-28 21:07:39 | [INFO]    | Shard 0 : Received HELLO
+2021-05-28 21:07:39 | [INFO]    | Shard 0 : Received READY
+2021-05-28 21:07:56 | [INFO]    | Shard 0 : Disconnected
